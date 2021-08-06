@@ -1,0 +1,7 @@
+D:\test\.NET\CustomAttributesApp\bin\Debug\CustomAttributesApp.exe.config
+D:\test\.NET\CustomAttributesApp\bin\Debug\CustomAttributesApp.exe
+D:\test\.NET\CustomAttributesApp\bin\Debug\CustomAttributesApp.pdb
+D:\test\.NET\CustomAttributesApp\obj\Debug\CustomAttributesApp.csproj.AssemblyReference.cache
+D:\test\.NET\CustomAttributesApp\obj\Debug\CustomAttributesApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\CustomAttributesApp\obj\Debug\CustomAttributesApp.exe
+D:\test\.NET\CustomAttributesApp\obj\Debug\CustomAttributesApp.pdb
